@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+4/5/17
 
 ### Student Name:  
-(First and Last Name)
+Tristan Muniz
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We added eight more movie items to the web page by adding additional DOM nodes. Then we used the $.ajax() method in order to get information from the OMDb API for our webpage.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://tristanmuniz.github.io/lesson8_ajax/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to add DOM nodes.
+2. I learned how to use the $.ajax() method in order to take information from API's. 
+3. I also learned how to transmit data using JSON.
